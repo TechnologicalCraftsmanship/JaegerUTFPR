@@ -61,7 +61,7 @@ This folder is the workspace for embedded development, using ESP-IDF.
 
 ### `VR_Application/`
 
-Contains the virtual reality application developed for project visualization, simulation, or remote monitoring. This may include **Unity** project files, assets, and scripts for interacting with the Jaeger system in a 3D environment.
+Contains the virtual reality application developed for project visualization, simulation, or remote monitoring. This include **Unity** project files, assets, and scripts for interacting with the Jaeger system in a 3D environment.
 
 ---
 
