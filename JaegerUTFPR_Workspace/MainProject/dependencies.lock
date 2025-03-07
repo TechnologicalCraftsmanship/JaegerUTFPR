@@ -1,0 +1,15 @@
+dependencies:
+  espressif/esp32-camera:
+    component_hash: null
+    source:
+      path: C:\Desenvolvimento\JaegerUTFPR\JaegerUTFPR_Workspace\MainProject\components\espressif__esp32-camera
+      type: local
+    version: 2.0.0
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 4.4.4
+manifest_hash: b810339ca8eab34250f2077cbe1ace6b9ac852fbd00b2a368540971d0c3f2240
+target: esp32
+version: 1.0.0

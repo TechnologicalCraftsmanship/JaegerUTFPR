@@ -1,0 +1,6 @@
+
+Não funcionou:
+//C:/Espressif/frameworks/esp-idf-v4.4.4\components\lwip\port\esp32\netif\wlanif.c(87): netif->mtu = 4400;
+//C:/Espressif/frameworks/esp-idf-v4.4.4\components\lwip\port\esp32\netif\ethernetif.c(83): netif->mtu = 4400;
+//C:/Espressif/frameworks/esp-idf-v4.4.4\components\lwip\lwip\src\netif\bridgeif.c(497): netif->mtu = 4400;
+//C:/Espressif/frameworks/esp-idf-v4.4.4\components\lwip\lwip\src\netif\slipif.c(79): #define SLIP_MAX_SIZE 4400
