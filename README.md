@@ -7,15 +7,25 @@ This repository organizes all project files related to the **Jaeger** system, de
 ## 📂 Folder Structure
 
 .
+
 ├── 3d_Models
+
 │   └── models
+
 ├── Fabrication
+
 │   ├── Jaeger_5_Rev1
+
 │   │   └── gerber
+
 │   └── Jaeger_Driver_3_Rev1
+
 │       └── gerber
+
 ├── JaegerUTFPR_Workspace
+
 │   └── MainProject
+
 └── VR_Application
 
 
