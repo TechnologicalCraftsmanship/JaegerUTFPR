@@ -74,3 +74,21 @@ This repository aims to centralize all essential components of the Jaeger projec
 
 This project is licensed under the [MIT License](LICENSE).
 
+## 📚 Citation
+
+If you use this project or the Jaeger system in your research, please cite the following paper:
+
+> Monteiro et al., "Design and implementation of an open-source, low-cost remote-controlled tiny humanoid robot for accessible robotics applications," *Robotica*, pp. 1–18, 2025.  
+> **DOI:** [https://doi.org/10.1017/S0263574725102907](https://doi.org/10.1017/S0263574725102907)
+
+**BibTeX:**
+
+```bibtex
+@article{Monteiro2025,
+  title={Design and implementation of an open-source, low-cost remote-controlled tiny humanoid robot for accessible robotics applications},
+  author={Pivaro Monteiro, Marcos Eduardo and dos Santos, Eduardo Nunes and Pigatto, Daniel Fernando and Alves Junior, Joilson and Ramalho, Leonardo Lira and Issicaba, Diego},
+  journal={Robotica},
+  year={2025},
+  pages={1–18},
+  doi={10.1017/S0263574725102907}
+}
